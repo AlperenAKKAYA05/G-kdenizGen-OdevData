@@ -1,0 +1,109 @@
+<movies>
+	<movie>
+		<title>Gizemli Ada: Mençuna</title>
+		<visiondate>7 Nisan 2023</visiondate>
+		<duration>102 dakika</duration>
+		<genre>Aile, Komedi, Macera</genre>
+		<director>Bora Onur</director>
+		<scriptwriter>Ünal Yeter</scriptwriter>
+		<making>2023 - Türkiye</making>
+		<showtimes>
+			<twod>
+			<twodtitle>Gizemli Ada: Mençuna</twodtitle>
+			<showtime>11:00</showtime>
+			<showtime>13:30</showtime>
+			<showtime>15:15</showtime>
+			<showtime>17:30</showtime>
+			</twod>
+		</showtimes>
+	</movie>
+	<movie>
+		<title>Zindanlar Ve Ejderhalar: Hırsızlar Arasında Onur</title>
+		<visiondate>7 Nisan 2023</visiondate>
+		<duration>134 dakika</duration>
+		<genre>Fantastik, Komedi, Macera</genre>
+		<director>John Francis Daley , Jonathan Goldstein</director>
+		<scriptwriter>John Francis Daley , Jonathan Goldstein , Derek Kolstad</scriptwriter>
+		<making>2023 - Kanada ,  ABD</making>
+		<showtimes>
+			<twod>
+			<twodtitle>twod</twodtitle>
+			<showtime>12:45</showtime>
+			<showtime>14:45</showtime>
+			<showtime>16:00</showtime>
+			<showtime>17:30</showtime>
+			<showtime>20:15</showtime>
+			</twod>
+			<threed>
+			<threedtitle>threed</threedtitle>
+			<showtime>18:45</showtime>
+			<showtime>21:30</showtime>
+			</threed>
+		</showtimes>
+	</movie>
+	<movie>
+		<title>Hayalet Suikastçi</title>
+		<visiondate>7 Nisan 2023</visiondate>
+		<duration>88 dakika</duration>
+		<genre>Bilim Kurgu, Aksiyon</genre>
+		<director>Jesse Atlas</director>
+		<scriptwriter>Jesse Atlas</scriptwriter>
+		<making>2023 - ABD</making>
+		<showtimes>
+			<twod>
+			<twodtitle>twod</twodtitle>
+			<showtime>12:45</showtime>
+			<showtime>21:45</showtime>
+			</twod>
+		</showtimes>
+	</movie>
+	<movie>
+		<title>Kral Şakir: Mikrop Avcıları Cumburlop</title>
+		<visiondate>31 Mart 2023</visiondate>
+		<duration>80 dakika</duration>
+		<genre>Animasyon</genre>
+		<director>Haluk Can Dizdaroğlu , Berk Tokay</director>
+		<scriptwriter>Haluk Can Dizdaroğlu</scriptwriter>
+		<making>2023 - Türkiye</making>
+		<showtimes>
+			<twod>
+			<twodtitle>twod</twodtitle>
+			<showtime>12:00</showtime>
+			<showtime>13:00</showtime>
+			<showtime>14:00</showtime>
+			<showtime>15:00</showtime>
+			<showtime>16:15</showtime>
+			</twod>
+			<threed>
+			<threedtitle>threed</threedtitle>
+			<showtime>18:00</showtime>
+			<showtime>19:45</showtime>
+			</threed>
+		</showtimes>
+	</movie>
+	<movie>
+		<title>John Wick 4</title>
+		<visiondate>22 Mart 2023</visiondate>
+		<duration>169 dakika</duration>
+		<genre>Aksiyon, Gerilim, Suç</genre>
+		<director>Chad Stahelski</director>
+		<scriptwriter>Michael Finch , Shay Hatten</scriptwriter>
+		<making>2023 - Almanya ,  ABD</making>
+		<showtimes>
+			<twod>
+			<twodtitle>twod</twodtitle>
+			<showtime>12:15</showtime>
+			<showtime>16:45</showtime>
+			<showtime>20:00</showtime>
+			<showtime>21:30</showtime>
+			</twod>
+			<threed>
+			<threedtitle>threed</threedtitle>
+			<showtime>15:30</showtime>
+			<showtime>18:45</showtime>
+			<showtime>21:00</showtime>
+			<showtime>22:00</showtime>
+			</threed>
+		</showtimes>
+	</movie>
+</movies>
