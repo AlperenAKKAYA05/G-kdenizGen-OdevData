@@ -1,0 +1,2 @@
+# G-kdenizGen-OdevData
+GökdenizGençOdevData
