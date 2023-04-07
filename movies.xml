@@ -1,4 +1,8 @@
 <movies>
+	<info>
+		<name>Gökdeniz GENÇ</name>
+		<number>21911106</number>
+	</info>
 	<movie>
 		<title>Gizemli Ada: Mençuna</title>
 		<visiondate>7 Nisan 2023</visiondate>
@@ -9,7 +13,6 @@
 		<making>2023 - Türkiye</making>
 		<showtimes>
 			<twod>
-			<twodtitle>Gizemli Ada: Mençuna</twodtitle>
 			<showtime>11:00</showtime>
 			<showtime>13:30</showtime>
 			<showtime>15:15</showtime>
@@ -27,7 +30,6 @@
 		<making>2023 - Kanada ,  ABD</making>
 		<showtimes>
 			<twod>
-			<twodtitle>twod</twodtitle>
 			<showtime>12:45</showtime>
 			<showtime>14:45</showtime>
 			<showtime>16:00</showtime>
@@ -35,7 +37,6 @@
 			<showtime>20:15</showtime>
 			</twod>
 			<threed>
-			<threedtitle>threed</threedtitle>
 			<showtime>18:45</showtime>
 			<showtime>21:30</showtime>
 			</threed>
@@ -51,7 +52,6 @@
 		<making>2023 - ABD</making>
 		<showtimes>
 			<twod>
-			<twodtitle>twod</twodtitle>
 			<showtime>12:45</showtime>
 			<showtime>21:45</showtime>
 			</twod>
@@ -67,7 +67,6 @@
 		<making>2023 - Türkiye</making>
 		<showtimes>
 			<twod>
-			<twodtitle>twod</twodtitle>
 			<showtime>12:00</showtime>
 			<showtime>13:00</showtime>
 			<showtime>14:00</showtime>
@@ -75,7 +74,6 @@
 			<showtime>16:15</showtime>
 			</twod>
 			<threed>
-			<threedtitle>threed</threedtitle>
 			<showtime>18:00</showtime>
 			<showtime>19:45</showtime>
 			</threed>
@@ -91,14 +89,12 @@
 		<making>2023 - Almanya ,  ABD</making>
 		<showtimes>
 			<twod>
-			<twodtitle>twod</twodtitle>
 			<showtime>12:15</showtime>
 			<showtime>16:45</showtime>
 			<showtime>20:00</showtime>
 			<showtime>21:30</showtime>
 			</twod>
 			<threed>
-			<threedtitle>threed</threedtitle>
 			<showtime>15:30</showtime>
 			<showtime>18:45</showtime>
 			<showtime>21:00</showtime>
